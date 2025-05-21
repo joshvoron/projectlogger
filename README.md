@@ -62,3 +62,5 @@ from project_logger import PL
 PL.set_colors_from_json('path/to/colors.json')
 logger = PL.start_logging(
 ```
+### License
+MIT © Ilya Voronov
